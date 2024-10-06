@@ -1,0 +1,46 @@
+/* Container styles */
+.container {
+  width: 70%; /* Set the width of the container */
+  margin: auto; /* Center the container */
+  text-align: center; /* Center align text within the container */
+}
+
+/* Dice styles */
+.dice {
+  text-align: center; /* Center align the text in the dice section */
+  display: inline-block; /* Display dice in a row */
+}
+
+/* Body styles */
+body {
+  background-color: #393E46; /* Set background color */
+}
+
+/* Header styles */
+h1 {
+  margin: 30px; /* Set margin around the header */
+  font-family: 'Lobster', cursive; /* Font style for the header */
+  text-shadow: 5px 0 #232931; /* Add shadow effect to the text */
+  font-size: 8rem; /* Set font size */
+  color: #4ECCA3; /* Set font color */
+}
+
+/* Paragraph styles */
+p {
+  font-size: 2rem; /* Set font size for paragraphs */
+  color: #4ECCA3; /* Set font color for paragraphs */
+  font-family: 'Indie Flower', cursive; /* Font style for paragraphs */
+}
+
+/* Image styles */
+img {
+  width: 80%; /* Set width of images */
+}
+
+/* Footer styles */
+footer {
+  margin-top: 5%; /* Set margin above footer */
+  color: #EEEEEE; /* Set footer text color */
+  text-align: center; /* Center align footer text */
+  font-family: 'Indie Flower', cursive; /* Font style for footer */
+}
